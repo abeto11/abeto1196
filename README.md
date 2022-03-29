@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Alberto
 - 👀 I’m interested in physics/ cods/ nature
-- 🌱 I’m currently learning LabVIEW/ Python 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning LabVIEW/ Python/C/C++ 
 - 📫 How to reach me alberto.hovhannisyan@gmail.com
 
 <!---
